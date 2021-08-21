@@ -1,0 +1,24 @@
+{
+  "name": "react_course_updated",
+  "version": "1.0.0",
+  "description": "MERN STACK",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankurgupta5442/MERN_STACK_PROJECT.git"
+  },
+  "author": "ANKUR GUPTA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankurgupta5442/MERN_STACK_PROJECT/issues"
+  },
+  "homepage": "https://github.com/Ankurgupta5442/MERN_STACK_PROJECT#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
